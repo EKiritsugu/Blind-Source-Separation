@@ -9,7 +9,6 @@ IVA信号分离由多个步骤构成
 
 
 
-problem:为啥短时傅里叶变换会弄出两个量？
 '''
 
 import numpy as np
